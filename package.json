@@ -1,0 +1,15 @@
+{
+  "name": "chatbot-using-openai",
+  "version": "1.0.0",
+  "description": "Chatbot using openai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^4.57.0",
+    "readline-sync": "^1.4.10"
+  }
+}
