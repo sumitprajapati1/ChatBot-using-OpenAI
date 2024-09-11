@@ -1,3 +1,4 @@
+import "dotenv/config";
 import OpenAI from 'openai';
 import readline from 'readline';
 
@@ -25,4 +26,3 @@ userInterface.on("line",async (input)=>{
       });
       
 })
-
